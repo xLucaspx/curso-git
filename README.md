@@ -15,4 +15,4 @@ O foco deste projeto foi ensinar:
 - como gerar *tags* e *releases*;
 - como utilizar o *GitHub Pages*.
 
-entre outras coisas sobre Git.
+Entre outras coisas sobre *Git*.
